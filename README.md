@@ -81,19 +81,19 @@ Each file represents monthly sales data and is imported into a separate workshee
 
 ### 📁 File Selection
 
-![File Selection](screenshots/file-selection.PNG)
+![File Selection](screenshots/file-selection.png)
 
 ---
 
 ### 🟡 Before Import
 
-![Before Import](screenshots/before-import.PNG)
+![Before Import](screenshots/before-import.png)
 
 ---
 
 ### 🟢 After Import
 
-![After Import](screenshots/after-import.PNG)
+![After Import](screenshots/after-import.png)
 
 ---
 
